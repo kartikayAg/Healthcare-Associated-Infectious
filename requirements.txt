@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+tqdm
+jupyter
+# For big data/streaming (future expansion)
+# pyspark
+# kafka-python
